@@ -1,0 +1,19 @@
+# Виртуальное окружение
+*.env
+*.pyenv
+tmp_data.txt
+# Файлы для кеширования
+__pycache__/
+*.py[cod]
+
+# Файлы среды разработки
+.vscode/
+*.iml
+
+# Логи и временные файлы
+*.bak
+*.swp
+
+# Системные файлы
+Thumbs.db  # Windows
+.DS_Store  # macOS
